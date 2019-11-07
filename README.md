@@ -13,4 +13,4 @@
 
 ___404 not found___
 
-![Picture of me, felt cute. Might delete laster.](https://i.pinimg.com/originals/2b/be/15/2bbe1591e28725b3f04217fee988b5e1.jpg"Picture of me, felt cute. Might delete lazer.")
+![Picture of me, felt cute. Might delete laster.](https://i.pinimg.com/originals/2b/be/15/2bbe1591e28725b3f04217fee988b5e1.jpg "Picture of me, felt cute. Might delete lazer.")
