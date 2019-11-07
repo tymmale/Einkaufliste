@@ -1,7 +1,10 @@
 # Einkaufliste
-**Vorname**	Bamboozler
-**Name**	33
-**Geburtstag**	03.12.1997
+**Vorname**	Bamboozler 
+
+**Name**	33 
+
+**Geburtstag**	03.12.1997 
+
 
 `int main() {
  std::cout << "Hello, World!" << std::endl;
